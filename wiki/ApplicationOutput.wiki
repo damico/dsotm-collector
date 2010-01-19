@@ -1,0 +1,14 @@
+#Explanation of the main product, the main result, the main output of application.
+
+= Return =
+
+DSOTM-COLLECTOR has just one return: A xml result.
+
+{{{
+<ffusage ip='' useragent='' username='' profile=''>
+	<visit timestamp='' timesused='' bookmarked='' />" +
+	<search firstused='' lastused='' timesused='' fieldname='' />
+</ffusage>
+}}}
+
+
