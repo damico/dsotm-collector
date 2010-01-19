@@ -5,10 +5,9 @@
 DSOTM-COLLECTOR has just one return: A xml result.
 
 {{{
+<?xml version="1.0" encoding="UTF-8"?>
 <ffusage ip='' useragent='' username='' profile=''>
 	<visit timestamp='' timesused='' bookmarked='' />" +
 	<search firstused='' lastused='' timesused='' fieldname='' />
 </ffusage>
 }}}
-
-
